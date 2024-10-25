@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
---> 🔭 I’m currently working on ... https://psu.nrs.gov.bc.ca/
+--> 🔭 I’m currently working on: https://psu.nrs.gov.bc.ca/
 - 🌱 I’m currently learning DevOps Automation, Continuous Integration and Continuous Delivery/Deployment
 - 👯 I’m looking to collaborate on Multi-Team Scrum
 - 🤔 I’m looking for help with ...

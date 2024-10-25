@@ -14,9 +14,9 @@ https://psu.nrs.gov.bc.ca/auto-spatial-advisory
 https://psu.nrs.gov.bc.ca/morecast
 
 <p>  </p>
-<p> [Fire Behaviour Prediction Web app: ](https://psu.nrs.gov.bc.ca/fbp-go) </p>
-<p> [Fire Behaviour Prediction iOS app: ](https://apps.apple.com/app/fbp-go/id1605675034) </p>
-<p> [Fire Behaviour Prediction Android app: ](https://play.google.com/store/apps/details?id=ca.bc.gov.FBPGo) </p>
+<p> Fire Behaviour Prediction Web app: https://psu.nrs.gov.bc.ca/fbp-go </p>
+<p> Fire Behaviour Prediction iOS app: https://apps.apple.com/app/fbp-go/id1605675034 </p>
+<p> Fire Behaviour Prediction Android app: https://play.google.com/store/apps/details?id=ca.bc.gov.FBPGo </p>
 <pre>  </pre>
 
 - 🌱 What I’m currently learning: DevOps Automation, Continuous Integration, and Continuous Delivery/Deployment

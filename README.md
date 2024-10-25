@@ -18,6 +18,6 @@ The BC Wildfire Predictive Services Unit is a multidisciplinary team within Wild
 - 😄 Pronouns: Organisational Developer
 - ⚡ Fun fact: ...
 <pre>  </pre>
--->⚡ To report Wildfires in BC, please call 1 800 663-5555 or *5555
+⚡ To report Wildfires in BC, please call 1 800 663-5555 or *5555
 <pre>  </pre>
   ⚡ For Wildfire info in BC, visit: https://www2.gov.bc.ca/gov/content/safety/wildfire-status 

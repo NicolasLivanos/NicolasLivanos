@@ -20,7 +20,7 @@ https://psu.nrs.gov.bc.ca/morecast
 <pre>  </pre>
 
 - 🌱 What I’m currently learning: DevOps Automation, Continuous Integration, and Continuous Delivery/Deployment
-- 🤔 I’m looking for help with Innovating the Spatial Fire Management System
+- 🤔 I’m looking for help in Innovating the Spatial Fire Management System
 - 👯 I’m looking to collaborate on Multi-Team Scrum, Scaling Agility, Portfolio Scrum/Kanban
 - 💬 Ask me how I can help your Team, your Directors, and your Organization
 - 😄 Pronouns: Organisational Developer

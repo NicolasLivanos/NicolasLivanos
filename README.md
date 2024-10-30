@@ -22,7 +22,7 @@ https://psu.nrs.gov.bc.ca/morecast
 - 🌱 What I’m currently learning: DevOps Automation, Continuous Integration, and Continuous Delivery/Deployment
 - 🤔 I’m looking for help in Innovating the Spatial Fire Management System
 - 👯 I’m looking to collaborate on Multi-Team Scrum, Scaling Agility, Portfolio Scrum/Kanban
-- 💬 Ask me how I can help your Team, your Directors, and your Organization
+- 💬 Ask me how I can help your Team, your Directors, and your Organization getting things DONE
 - 😄 Pronouns: Organisational Developer
 <pre>  </pre>
 ⚡ To report Wildfires in BC, please call 1 800 663-5555 or *5555

@@ -25,8 +25,8 @@ Weather Forecasting app: https://psu.nrs.gov.bc.ca/morecast
 
 - 🌱 What I’m currently learning: DevOps Automation, Continuous Integration, and Continuous Delivery/Deployment
 - 🤔 I’m looking for help in Innovating the Spatial Fire Management System: https://cwfis.cfs.nrcan.gc.ca/datamart/metadata/fdr
-- 👯 I’m looking to collaborate on Multiteam Systems, Scaling Agility & Scrum, Portfolio Scrum/Kanban
-- 💬 Ask me how I can help your Team, your Directors, and your Organization getting things DONE
+- 👯 I’m looking to collaborate on Multiteam Systems, Scaling Agility, Portfolio Scrum/Kanban
+- 💬 Ask me how I can help your Team, your Directors, and your Organisation getting things DONE
 - 😄 Pronouns: Organisational Developer
 <pre>  </pre>
 ⚡ To report Wildfires in BC, please call 1 800 663-5555 or *5555

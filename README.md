@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 --> 🔭 I’m currently serving the <a href="https://www2.gov.bc.ca/gov/content/safety/wildfire-status/">British Columbia Wildfire Service </a> and its Predictive Services Unit, innovating its <a href="https://psu.nrs.gov.bc.ca/">Decision Support Tools</a>
 <p>  </p>
 <pre>  </pre>
-The <a href="https://www2.gov.bc.ca/gov/content/safety/wildfire-status/prepare/predictive-services)/">BC Wildfire Predictive Services Unit </a> is a multidisciplinary team within Wildfire Operations consisting of fire behaviour specialists, fire weather forecasters, and technology specialists who collect, synthesize, and interpret complex data and provide expertise in high-impact wildfire risk evaluations. The PSU develops innovative products, services, and technology solutions to advance risk-based, data-driven decision making for wildfire prevention, preparedness, response, and recovery.
+The <a href="https://www2.gov.bc.ca/gov/content/safety/wildfire-status/prepare/predictive-services">BC Wildfire Predictive Services Unit </a> is a multidisciplinary team within Wildfire Operations consisting of fire behaviour specialists, fire weather forecasters, and technology specialists who collect, synthesize, and interpret complex data and provide expertise in high-impact wildfire risk evaluations. The PSU develops innovative products, services, and technology solutions to advance risk-based, data-driven decision making for wildfire prevention, preparedness, response, and recovery.
 <p>  </p>
 
 Automated Spatial Advisory web app: https://psu.nrs.gov.bc.ca/auto-spatial-advisory | iOS app: https://apps.apple.com/us/app/asa-go/id6741596129 | Android app: https://play.google.com/store/apps/details?id=ca.bc.gov.asago

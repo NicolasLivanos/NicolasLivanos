@@ -20,7 +20,7 @@ Weather Forecasting app: https://psu.nrs.gov.bc.ca/morecast
 <pre>  </pre>
 
 - 🌱 What I’m currently learning: DevOps Automation, Continuous Integration, and Continuous Delivery/Deployment
-- 🤔 I’m looking for help in Innovating the Canadian Forest Fire Danger Rating System: https://cffdrs.github.io/website_en/home/ & supporting the National Fire Modelling Team: https://firegrowthmodel.ca/#/project_team
+- 🤔 I’m looking for help in Innovating the <a href="https://cffdrs.github.io/website_en/home/">Canadian Forest Fire Danger Rating System</a> & supporting the <a href="https://firegrowthmodel.ca/#/project_team/">National Fire Modelling Team</a>
 - 👯 I’m looking to collaborate on Multiteam Systems, Scaling Agility, Portfolio Scrum/Kanban
 - 💬 Ask me how I can help your Team, your Directors, and your Organisation getting things DONE
 - 😄 Pronouns: Organisational Developer

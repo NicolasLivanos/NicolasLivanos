@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 The <a href="https://www2.gov.bc.ca/gov/content/safety/wildfire-status/prepare/predictive-services">BC Wildfire Predictive Services Unit </a> is a multidisciplinary team within Wildfire Operations consisting of fire behaviour specialists, fire weather forecasters, and technology specialists who collect, synthesize, and interpret complex data and provide expertise in high-impact wildfire risk evaluations. The PSU develops innovative products, services, and technology solutions to advance risk-based, data-driven decision making for wildfire prevention, preparedness, response, and recovery.
 <p>  </p>
 <a href="https://psu.nrs.gov.bc.ca/auto-spatial-advisory">Automated Spatial Advisory web app</a> | <a href="https://apps.apple.com/us/app/asa-go/id6741596129">Apple iOS app</a> | <a href="https://play.google.com/store/apps/details?id=ca.bc.gov.asago">Android app</a>
-  
+<p>  </p>  
 <a href="https://psu.nrs.gov.bc.ca/morecast">Weather Forecasting app</a>
-
 <p>  </p>
-<p> Fire Behaviour Prediction Web app: https://psu.nrs.gov.bc.ca/fbp-go | iOS app: https://apps.apple.com/app/fbp-go/id1605675034 | Android app: https://play.google.com/store/apps/details?id=ca.bc.gov.FBPGo </p>
+<a href="https://psu.nrs.gov.bc.ca/fbp-go">Fire Behaviour Prediction Web app</a> | <a href="https://apps.apple.com/app/fbp-go/id1605675034 ">Apple iOS app</a> | <a href="https://play.google.com/store/apps/details?id=ca.bc.gov.FBPGo ">Android app</a>
+
 <pre>  </pre>
 
 - 🌱 What I’m currently learning: DevOps Automation, Continuous Integration, and Continuous Delivery/Deployment
